@@ -1,1 +1,3 @@
-A Simple Theme WordPress
+==========================================
+      A Simple Theme for WordPress
+==========================================
