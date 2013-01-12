@@ -2,5 +2,5 @@
 
                   UWTHEME
 
-       A Simple Theme for WordPress
+      A Simple Theme for WordPress
 ==========================================
