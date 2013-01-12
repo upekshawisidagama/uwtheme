@@ -1,3 +1,6 @@
 ==========================================
-      A Simple Theme for WordPress
+
+                  UWTHEME
+
+       A Simple Theme for WordPress
 ==========================================
